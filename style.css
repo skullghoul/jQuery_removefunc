@@ -1,0 +1,20 @@
+#mainCardsContainer {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    font-family: Helvetica;
+  }
+  
+  .card {
+    min-width: 200px;
+    max-width: 200px;
+    box-sizing: border-box;
+    padding: 20px;
+    margin: 10px;
+    background-color: #f7f7f7;
+    border-radius: 3px;
+  }
+  
+  h1 {
+    font-weight: 100;
+  }
